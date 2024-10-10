@@ -1,0 +1,6 @@
+@Practice___Code_First_Basic_HostAddress = http://localhost:5290
+
+GET {{Practice___Code_First_Basic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
